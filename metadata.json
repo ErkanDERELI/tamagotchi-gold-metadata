@@ -1,15 +1,6 @@
 {
   "name": "TamagotchiGold",
   "symbol": "TMGL",
-  "uri": "https://erkandereli.github.io/tamagotchi-gold-metadata/metadata.json",
-  "seller_fee_basis_points": 500,
-  "creators": [
-    {
-      "address": "D7CWdWuBiFc1jYbkM9u8xa78QRqKKDjdEjuSoph2T5np",
-      "verified": true,
-      "share": 100
-    }
-  ],
   "description": "TamagotchiGold is a unique digital asset representing the beloved Tamagotchi in the blockchain world.",
   "image": "https://erkandereli.github.io/tamagotchi-gold-metadata/tamagotchi.png"
 }
